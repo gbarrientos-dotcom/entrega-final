@@ -1,1 +1,2 @@
 Análisis y Diseño
+en esta etapa se avanzará en el análisis y diseño de los módulos Gestión de Usuarios, Gestión de Entidades, Gestión de Solicitudes y Gestión de Ordenes de Pago.
